@@ -1,6 +1,14 @@
-# 🚍 Transport Stack
+# <p align="center">Welcome to Transport Stack – Powering Smart Mobility</p>
 
-**Transport Stack** is an open-source, modular set of digital mobility infrastructure components designed to help developers, startups, researchers, and public agencies rapidly prototype, deploy, and extend transport applications.
+Hi, this is the Transport Stack
+
+An open-source repository empowering developers with ready-to-use assets & accelerators enabling faster innovation and seamless mobility solutions.
+
+Building a collaborative & thriving space for collective innovation where developers, mobility experts, users extend scalable transport solution.
+
+Central space to collate and share knowledge for differential & scalable transportation solutions.
+
+Whether you're a transport authority, technology provider, or developer, this repo will help you understand and leverage Transport Stack for building better mobility solutions.
 
 This GitLab group serves as the home for all Transport Stack projects and documentation.
 
@@ -10,18 +18,10 @@ This GitLab group serves as the home for all Transport Stack projects and docume
 
 Transport Stack (TS) is a reference architecture for building digital public infrastructure in urban mobility. It includes pre-built codebases, standard data models, API definitions, and mobile/web tools to help cities and innovators:
 
-- Collect, process, and visualize transit data
-- Deploy modular services like ETA calculations, schedule adherence, bunching detection, etc.
-- Prototype ONDC-style transport marketplaces
+- Collect, process, and visualize transit data  
+- Deploy modular services like ETA calculator, schedule adherence, bunching detection, etc.  
+- Prototype ONDC-style transport marketplaces  
 - Build interoperable mobility applications faster
-
----
-
-## 🧑‍💻 Who is it for?
-
-- **Developers & engineers** looking to build, deploy, or customize open transit solutions
-- **Researchers and students** contributing to transport tech and urban data platforms
-- **Startups and civic tech teams** working on DPI / DPG-based mobility solutions
 
 ---
 
@@ -29,14 +29,10 @@ Transport Stack (TS) is a reference architecture for building digital public inf
 
 This group contains multiple independent but interoperable repositories, including:
 
-- 🚎 Bus Bunching Detection  
-- 📊 ETA Calculator  
 - 📡 Open Transit Data Service APIs  
-- 🧾 ONDC Bus Seller  
-- 📱 Android App for Transit Data Collection  
-- 📅 Schedule Adherence  
-- 🧭 Park-n-Ride Trip Planner  
-- 🛠️ Shared Developer Utilities  
+- 📊 Citizen centric services: Journey Planner, ETA Calculator, Park-n-Ride Trip Planner, ONDC Bus Ticketing  
+- 🚎 Bus analytics services: Auto outshedding detection, Schedule adherence, Bunching detection  
+- 📱 Micro-transit Services: Android App for Shared Mobility Data Collection  
 
 Each project comes with its own README and implementation details.
 
@@ -46,17 +42,17 @@ Each project comes with its own README and implementation details.
 
 We welcome contributions from the community! You can:
 
-- Fork a repository and submit merge requests
-- Report issues and suggest features
-- Add test cases, improve documentation, or extend APIs
+- Fork a repository and submit merge requests  
+- Report issues and suggest features  
+- Add test cases, improve documentation, or extend APIs  
 
-See the [CONTRIBUTING.md](./CONTRIBUTING.md) file for detailed guidelines.
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. All contributors will be appropriately credited in project documentation or release notes.
 
 ---
 
 ## 📜 License
 
-All projects in this group are released under the [Apache 2.0 License](./LICENSE).
+All projects in this group are released under the Apache 2.0 License.
 
 ---
 
@@ -64,7 +60,7 @@ All projects in this group are released under the [Apache 2.0 License](./LICENSE
 
 If you'd like to collaborate, contribute, or have questions:
 
-- Email us at: [info@transportstack.in](mailto:info@transportstack.in)
+- Email us at: [info@transportstack.in](mailto:info@transportstack.in)  
 - Open an issue in any repository
 
 ---
