@@ -2,11 +2,11 @@
 
 Hi, this is the Transport Stack
 
-An open-source repository empowering developers with ready-to-use assets & accelerators enabling faster innovation and seamless mobility solutions.
+**An open-source repository empowering developers with ready-to-use assets & accelerators** enabling faster innovation and seamless mobility solutions.
 
-Building a collaborative & thriving space for collective innovation where developers, mobility experts, users extend scalable transport solution.
+**Building a collaborative & thriving space for collective innovation** where developers, mobility experts, users extend scalable transport solution.
 
-Central space to collate and share knowledge for differential & scalable transportation solutions.
+**Central space to collate and share knowledge** for differential & scalable transportation solutions.
 
 Whether you're a transport authority, technology provider, or developer, this repo will help you understand and leverage Transport Stack for building better mobility solutions.
 
@@ -16,7 +16,7 @@ This GitLab group serves as the home for all Transport Stack projects and docume
 
 ## 🎯 What is Transport Stack?
 
-Transport Stack (TS) is a reference architecture for building digital public infrastructure in urban mobility. It includes pre-built codebases, standard data models, API definitions, and mobile/web tools to help cities and innovators:
+Transport Stack (TS) is a **reference architecture for building digital public infrastructure** in urban mobility. It includes **pre-built codebases, standard data models, API definitions**, and **mobile/web tools** to help cities and innovators:
 
 - Collect, process, and visualize transit data  
 - Deploy modular services like ETA calculator, schedule adherence, bunching detection, etc.  
