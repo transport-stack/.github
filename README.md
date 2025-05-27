@@ -1,4 +1,4 @@
-# <p align="center">Welcome to Transport Stack – Powering Smart Mobility</p>
+# Welcome to Transport Stack – Powering Smart Mobility
 
 Hi, this is the Transport Stack
 
