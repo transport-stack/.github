@@ -37,7 +37,11 @@ If you experience or witness unacceptable behavior, please report it to:
 
 📧 [info@transportstack.in](mailto:info@transportstack.in)
 
+Alternatively, you can open an issue using our [Bug Report template](./issue-templates/bug.md) and mark it as a Code of Conduct violation.
+
 All reports will be handled confidentially and investigated promptly.
+
+For security-related concerns, please refer to our [Security Policy](./SECURITY.md).
 
 ## Attribution
 

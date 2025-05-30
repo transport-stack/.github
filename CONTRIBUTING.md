@@ -107,6 +107,18 @@ All contributions will be licensed under the [Apache 2.0 License](./LICENSE).
 
 ---
 
+## 🐛 Reporting Issues
+
+When reporting issues, please use the appropriate issue template:
+
+- [Bug Report](./issue-templates/bug.md): For reporting bugs or unexpected behavior
+- [Feature Proposal](./issue-templates/feature-proposal.md): For suggesting new features or enhancements
+- [Documentation](./issue-templates/documentation.md): For suggesting improvements to documentation
+
+## 🔒 Security Vulnerabilities
+
+If you discover a security vulnerability, please do NOT open an issue. Review our [Security Policy](./SECURITY.md) for instructions on responsible disclosure.
+
 ## 💬 Need Help?
 
 - Open an issue in the repository
