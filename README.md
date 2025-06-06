@@ -46,7 +46,12 @@ We welcome contributions from the community! You can:
 - Report issues and suggest features  
 - Add test cases, improve documentation, or extend APIs  
 
-See the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. All contributors will be appropriately credited in project documentation or release notes.
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. We also maintain:
+
+- Issue templates for [bug reports](issue-templates/bug.md), [feature proposals](issue-templates/feature-proposal.md), and [documentation](issue-templates/documentation.md)
+- [Guidelines for changelog entries](CHANGELOG.md) when submitting changes
+- [Security policy](SECURITY.md) for reporting vulnerabilities
+
 
 ---
 
