@@ -13,7 +13,7 @@ We are committed to fostering a welcoming and inclusive environment. All contrib
 ### 1. Fork and Clone the Repository
 
 ```bash
-git clone https://gitlab.com/your-username/transport-stack.git
+git clone https://github.com/your-username/transport-stack.git
 cd transport-stack
 ```
 
@@ -51,16 +51,16 @@ git commit -m "feat: add route planning API example"
 git push origin feature/your-feature-name
 ```
 
-### 7. Submit a Merge Request (MR)
+### 7. Submit a Pull Request (PR)
 
-Go to the GitLab repository and submit an MR to the `main` branch. Please include:
+Go to the GitHub repository and submit a PR to the `main` branch. Please include:
 
 - A clear description of your changes
 - Links to related issues (if any)
 - Tests or examples (if added)
 
-> Your MR will be reviewed by a maintainer. We aim to respond within **3–5 business days**. Please make sure:
-> - You’ve addressed any reviewer feedback
+> Your PR will be reviewed by a maintainer. We aim to respond within **3–5 business days**. Please make sure:
+> - You've addressed any reviewer feedback
 > - Lint and test commands run successfully (manually)
 
 ---

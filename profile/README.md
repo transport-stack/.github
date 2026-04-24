@@ -10,7 +10,7 @@ Hi, this is the Transport Stack
 
 Whether you're a transport authority, technology provider, or developer, this repo will help you understand and leverage Transport Stack for building better mobility solutions.
 
-This GitLab group serves as the home for all Transport Stack projects and documentation.
+This GitHub organization serves as the home for all Transport Stack projects and documentation.
 
 ---
 

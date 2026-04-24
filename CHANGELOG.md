@@ -39,5 +39,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Core API structure
 - Basic documentation
 
-[Unreleased]: https://gitlab.com/transport-stack/compare/v0.1.0...HEAD
-[0.1.0]: https://gitlab.com/transport-stack/releases/tag/v0.1.0
+[Unreleased]: https://github.com/transport-stack/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/transport-stack/releases/tag/v0.1.0
