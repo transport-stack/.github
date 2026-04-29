@@ -13,7 +13,10 @@ We are committed to fostering a welcoming and inclusive environment. All contrib
 ### 1. Fork and Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/transport-stack.git
+gh repo fork transport-stack/REPO-NAME --clone=true
+cd REPO-NAME
+# Or manually:
+git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
 cd transport-stack
 ```
 

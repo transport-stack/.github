@@ -42,13 +42,13 @@ Each project comes with its own README and implementation details.
 
 We welcome contributions from the community! You can:
 
-- Fork a repository and submit merge requests  
+- Fork a repository and submit Pull Requests  
 - Report issues and suggest features  
 - Add test cases, improve documentation, or extend APIs  
 
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. We also maintain:
 
-- Issue templates for [bug reports](issue-templates/bug.md), [feature proposals](issue-templates/feature-proposal.md), and [documentation](issue-templates/documentation.md)
+- Issue templates for [bug reports](.github/ISSUE_TEMPLATE/bug_report.md), [feature proposals](.github/ISSUE_TEMPLATE/feature_proposal.md), [documentation](.github/ISSUE_TEMPLATE/documentation.md), and [security issues](.github/ISSUE_TEMPLATE/security.md)
 - [Guidelines for changelog entries](CHANGELOG.md) when submitting changes
 - [Security policy](SECURITY.md) for reporting vulnerabilities
 
