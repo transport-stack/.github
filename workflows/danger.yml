@@ -1,0 +1,19 @@
+name: "Danger JS"
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  danger:
+    name: Danger JS Checks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Danger JS
+        uses: danger/danger-js@11
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: "--dangerfile dangerfile.js"
