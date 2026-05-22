@@ -7,6 +7,10 @@ on:
     types: [opened]
   workflow_call:
 
+permissions:
+  pull-requests: read
+  issues: write
+
 jobs:
   welcome:
     runs-on: ubuntu-latest
