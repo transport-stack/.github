@@ -42,7 +42,7 @@ jobs:
           INNEREOF
 
       - name: Danger JS
-        uses: danger/danger-js@11
+        uses: danger/danger-js@12.3.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
