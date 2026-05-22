@@ -21,7 +21,7 @@ jobs:
 
       - name: Write dangerfile
         run: |
-          cat > ${{ github.workspace }}/dangerfile.js << 'INNEREOF'
+          cat > dangerfile.js << 'INNEREOF'
           const MAX_PR_LINE_COUNT = 500;
 
           if (danger.github.pr.additions + danger.github.pr.deletions > MAX_PR_LINE_COUNT) {
@@ -51,4 +51,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: "--dangerfile ${{ github.workspace }}/dangerfile.js"
+          args: "--dangerfile dangerfile.js"
