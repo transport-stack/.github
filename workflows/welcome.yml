@@ -8,7 +8,7 @@ on:
   workflow_call:
 
 permissions:
-  pull-requests: read
+  pull-requests: write
   issues: write
 
 jobs:
