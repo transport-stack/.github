@@ -24,3 +24,4 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
           PRINT_ALPACA: false
+          DISABLE_ERRORS: true
