@@ -1,0 +1,8 @@
+# Transport Stack — default CODEOWNERS for all organization repositories
+#
+# This file (in the org's .github repo) applies to any repo that does not
+# define its own .github/CODEOWNERS. Repos may override per-path ownership.
+#
+# Default: every change requires review from a core maintainer.
+
+* @transport-stack/core-maintainers
