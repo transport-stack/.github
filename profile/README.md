@@ -46,11 +46,11 @@ We welcome contributions from the community! You can:
 - Report issues and suggest features  
 - Add test cases, improve documentation, or extend APIs  
 
-See the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. We also maintain:
+See the [CONTRIBUTING.md](https://github.com/transport-stack/.github/blob/main/CONTRIBUTING.md) file for detailed guidelines. We also maintain:
 
-- Issue templates for [bug reports](.github/ISSUE_TEMPLATE/bug_report.md), [feature proposals](.github/ISSUE_TEMPLATE/feature_proposal.md), [documentation](.github/ISSUE_TEMPLATE/documentation.md), and [security issues](.github/ISSUE_TEMPLATE/security.md)
-- [Guidelines for changelog entries](CHANGELOG.md) when submitting changes
-- [Security policy](SECURITY.md) for reporting vulnerabilities
+- Issue templates for [bug reports](https://github.com/transport-stack/.github/blob/main/ISSUE_TEMPLATE/bug_report.md), [feature proposals](https://github.com/transport-stack/.github/blob/main/ISSUE_TEMPLATE/feature_proposal.md), [documentation](https://github.com/transport-stack/.github/blob/main/ISSUE_TEMPLATE/documentation.md), and [security issues](https://github.com/transport-stack/.github/blob/main/ISSUE_TEMPLATE/security.md)
+- [Guidelines for changelog entries](https://github.com/transport-stack/.github/blob/main/CHANGELOG.md) when submitting changes
+- [Security policy](https://github.com/transport-stack/.github/blob/main/SECURITY.md) for reporting vulnerabilities
 
 
 ---
